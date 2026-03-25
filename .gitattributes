@@ -1,0 +1,41 @@
+﻿* text=auto
+
+*.cs text eol=crlf
+*.shader text eol=crlf
+*.hlsl text eol=crlf
+*.cginc text eol=crlf
+*.compute text eol=crlf
+*.json text eol=crlf
+*.asmdef text eol=crlf
+*.md text eol=crlf
+*.txt text eol=crlf
+*.yml text eol=crlf
+*.yaml text eol=crlf
+*.unity text eol=crlf
+*.prefab text eol=crlf
+*.asset text eol=crlf
+*.meta text eol=crlf
+*.mat text eol=crlf
+*.anim text eol=crlf
+*.controller text eol=crlf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tga binary
+*.bmp binary
+*.exr binary
+*.hdr binary
+*.psd binary
+*.fbx binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.mp4 binary
+*.dll binary
+*.pdb binary
+*.rar binary
+*.zip binary
+*.7z binary
+*.unitypackage binary
+*.pdf binary
