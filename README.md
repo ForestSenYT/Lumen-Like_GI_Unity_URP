@@ -4,6 +4,7 @@ LumenLike for Unity is an experimental open-source real-time GI project for URP.
 
 ## Current Status
 
+- Tested in Unity 6000.3.10f1 Urp LTS
 - The active generated Unity project chain is clean when regenerated locally: `TAA.Runtime.csproj`, `Assembly-CSharp.csproj`, and `Assembly-CSharp-Editor.csproj` all build successfully.
 - Core runtime, demo content, and bundled third-party code are separated structurally.
 - The core GI runtime is currently kept on the last known-good rendering path; clean-room replacement work is still required before it should be treated as low-risk public runtime code.
